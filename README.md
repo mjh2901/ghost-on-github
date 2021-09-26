@@ -1,2 +1,3 @@
 # ghost-on-github
-Use github pates to host your ghost site
+Use github pages to host your ghost site
+
