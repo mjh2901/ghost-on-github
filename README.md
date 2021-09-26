@@ -5,7 +5,7 @@ This bash script will render your gost site as static pages then push the static
 
 # In order for this script to work you need three things
 
-1. A working ghost site (generally self hosted) createed using ghost cli https://ghost.org/docs/install/local/
+1. A working ghost site (generally self hosted) created using ghost cli https://ghost.org/docs/install/local/
 
 2. The Ghost Static Site Generator https://github.com/Fried-Chicken/ghost-static-site-generator
 
