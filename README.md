@@ -19,11 +19,11 @@ Place the upload.sh script in the top level drictory in your ghost site
 
 run the following comannd
 
-{
+'''
 chmod u+x upload.sh
-}
+'''
 
-{
+'''
 Now whenever you want update and upload your site run
 ./upload.sh 
-}
+'''
