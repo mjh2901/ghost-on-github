@@ -17,6 +17,8 @@ In the top level directory of your ghost site
 
 Place the upload.sh script in the top level drictory in your ghost site
 
+Edit the upload.sh script to match your site and repository location (instructions are in the script)
+
 run the following command
 
 
