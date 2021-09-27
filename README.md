@@ -13,17 +13,11 @@ This bash script will render your gost site as static pages then push the static
 
 # Instructions:
 
-In the top level directory of your ghost site
-
-Place the upload.sh script in the top level drictory in your ghost site
-
-Edit the upload.sh script to match your site and repository location (instructions are in the script)
-
-run the following command
-
+1. Place the upload.sh script in the top level drictory in your ghost site
+2. Edit the upload.sh script to match your site and repository location (instructions are in the script)
+3. run the following command
 
 chmod u+x upload.sh
-
 
 Now whenever you want update and upload your site run
 
