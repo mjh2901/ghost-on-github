@@ -17,7 +17,7 @@ In the top level directory of your ghost site
 
 Place the upload.sh script in the top level drictory in your ghost site
 
-run the following comannd
+run the following command
 
 
 chmod u+x upload.sh
