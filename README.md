@@ -24,4 +24,5 @@ chmod u+x upload.sh
 
 
 Now whenever you want update and upload your site run
+
 ./upload.sh
