@@ -22,3 +22,5 @@ chmod u+x upload.sh
 Now whenever you want update and upload your site run
 
 ./upload.sh
+
+A full tutorial is available https://mikehathaway.com/host-your-ghost-site-on-github/
